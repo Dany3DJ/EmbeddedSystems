@@ -1,0 +1,4 @@
+-Bit math.h set,clear,read,toggle
+-float double casting error
+-search for kernel,OS,schedular
+-unions in C

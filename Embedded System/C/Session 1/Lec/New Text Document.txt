@@ -1,0 +1,13 @@
+- %d for decimals, %i for integars, %a for alarm, %f for float,	%c for character
+	ex: printf(%d, x);
+- typedef "datatype" "NewDataName"
+	ex: typedef char u6;
+- Heaps used in dynamic memory allocation
+- .bss , .data used to store initializations
+- 	x & 1 = x
+	x & 0 = 0
+	x | 1 = 1
+	x | 0 = x
+	x ^ 1 =	!x	(xor)
+- >>n shifts n bits to the right
+  <<n shifts n bits to the left
