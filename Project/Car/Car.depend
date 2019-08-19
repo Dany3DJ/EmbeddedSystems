@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1566214474 source:c:\users\daniel\desktop\embedded system\c\project\car\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Car.h"
+
+1566214372 c:\users\daniel\desktop\embedded system\c\project\car\car.h
+
+1565713352 c:\users\daniel\desktop\embedded system\c\project\car\head.h
+
+1566215427 source:c:\users\daniel\desktop\embedded system\c\project\car\car.c
+	<stdio.h>
+	<stdlib.h>
+
