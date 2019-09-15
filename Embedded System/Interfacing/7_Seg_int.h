@@ -1,0 +1,11 @@
+void Seg_num0(void);
+void Seg_num1(void);
+void Seg_num2(void);
+void Seg_num3(void);
+void Seg_num4(void);
+void Seg_num5(void);
+void Seg_num6(void);
+void Seg_num7(void);
+void Seg_num8(void);
+void Seg_num9(void);
+void Seg_DISPLAY(u8 num);
